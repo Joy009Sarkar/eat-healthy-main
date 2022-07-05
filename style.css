@@ -1,0 +1,42 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.black-red {
+    color: #DC143C;
+
+}
+
+
+.link-button {
+    text-decoration: none;
+    background-image: -linear-gradient(#FFD700 #ADFF2F);
+    background-color: #b22222;
+    padding: 15px 50px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+
+.banner-top {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.diet {
+    width: 80%;
+    padding-left: 5%;
+}
+
+.diet img {
+    width: 80%;
+
+}
